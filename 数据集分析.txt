@@ -1,0 +1,25 @@
+condition
+
+评论 关键词提取  情感分析
+词云 按1、-1分类
+
+日期按年份分类 独热编码
+
+useful count useful/总数  名字归类 新增属性 删除只出现一次的药品 delete conditions with only one drug. 
+
+
+副作用分类
+
+同类药物评级不同（rating是个人打分）
+
+3.29数据处理合并
+
+3.31定稿
+
+
+https://blog.csdn.net/Imaglne/article/details/108962121 情感分析包
+https://zhuanlan.zhihu.com/p/269665891 对于包的解释
+https://zhuanlan.zhihu.com/p/144572025 词云示例
+
+https://zhuanlan.zhihu.com/p/63630959 model1
+https://blog.csdn.net/weixin_44209013/article/details/106521149 model2
